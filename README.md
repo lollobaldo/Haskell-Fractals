@@ -16,4 +16,6 @@ The grass is kinda recursive.
 
 The cloud -- well, still working on it.
 
+**Obviously** this is only a GIF, the program has much better quality.
+
 ![](gif.gif)
